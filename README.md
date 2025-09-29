@@ -3,10 +3,10 @@ Ramesh Sabhavath-Portfolio
 
 ##### I'm Ramesh Sabhavath → | Data Analyst | Data Engineer | GenAI Enthusiast  
 
-** • Passionate aspiring Data Analyst skilled in transforming raw data into actionable insights.**
-###### • Practical experience with data analysis tools, techniques, and problem-solving.
-###### • Eager to learn, grow, and apply analytical expertise to real-world challenges.
-###### • Dedicated to leveraging data-driven approaches to support smarter decision-making.
+**• Passionate aspiring Data Analyst skilled in transforming raw data into actionable insights.
+• Practical experience with data analysis tools, techniques, and problem-solving.
+• Eager to learn, grow, and apply analytical expertise to real-world challenges.
+• Dedicated to leveraging data-driven approaches to support smarter decision-making**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-sabhavath-3a0039387)
 
