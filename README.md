@@ -1,7 +1,7 @@
 Ramesh Sabhavath-Portfolio
 ## Hi there! 👋 Welcome to my GitHub  
 
-#### I'm Ramesh Sabhavath → | Data Analyst | Data Engineer | GenAI Enthusiast  
+### I'm Ramesh Sabhavath → | Data Analyst | Data Engineer | GenAI Enthusiast  
 
 • Passionate aspiring Data Analyst skilled in transforming raw data into actionable insights   
 • Practical experience with data analysis tools, techniques, and problem-solving   
@@ -9,6 +9,8 @@ Ramesh Sabhavath-Portfolio
 • Dedicated to leveraging data-driven approaches to support smarter decision-making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-sabhavath-3a0039387)
+
+ [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/RameshSabhavath)
 
 ## 📌 What I Do:
 • Extract, clean, and analyze data to uncover meaningful insights 
