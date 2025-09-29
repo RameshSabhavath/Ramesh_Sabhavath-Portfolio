@@ -10,12 +10,12 @@ Ramesh Sabhavath-Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-sabhavath-3a0039387)
 
-# 📌 What I Do:
-• Extract, clean, and analyze data to uncover meaningful insights
-• Develop ETL processes to handle large datasets
-• Optimize SQL queries and database performance
+### 📌 What I Do:
+• Extract, clean, and analyze data to uncover meaningful insights 
+• Develop ETL processes to handle large datasets 
+• Optimize SQL queries and database performance 
 • Build interactive dashboards for reporting and business intelligence
----
+
 
 ## 👨🏼‍💻 Technical Skills  
 
