@@ -19,19 +19,19 @@ Ramesh Sabhavath-Portfolio
 
 ## 👨🏼‍💻 Technical Skills  
 
-### 🧹   Data Cleaning & Transformation  
+### 🧹  Data Cleaning & Transformation  
 Excel | Power Query | Python (Pandas, NumPy)
 
-### 📊   Data Visualization & Reporting 
+### 📊  Data Visualization & Reporting 
 Power BI | Tableau | Matplotlib | Seaborn
 
-### 📈   Analytics & Insights   
+### 📈  Analytics & Insights   
 Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting.
 
-### 🗄   Database & Querying 
+### 🗄  Database & Querying 
  SQL (MySQL).
 
-### ⚡   Other Tools 
+### ⚡  Other Tools 
 Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving |  →  automate workflows and enhance data processing efficiency.
 
 ---
