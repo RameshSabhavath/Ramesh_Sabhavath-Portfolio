@@ -13,26 +13,26 @@ Ramesh Sabhavath-Portfolio
 ### 📌 What I Do:
 • Extract, clean, and analyze data to uncover meaningful insights 
 • Develop ETL processes to handle large datasets 
-• Optimize SQL queries and database performance 
+• Optimize SQL queries and database performance
 • Build interactive dashboards for reporting and business intelligence
 
 
 ## 👨🏼‍💻 Technical Skills  
 
 ### 🧹   Data Cleaning & Transformation  
-#### Excel | Power Query | Python (Pandas, NumPy)
+Excel | Power Query | Python (Pandas, NumPy)
 
 ### 📊   Data Visualization & Reporting 
-#### Power BI | Tableau | Matplotlib | Seaborn
+Power BI | Tableau | Matplotlib | Seaborn
 
 ### 📈   Analytics & Insights   
-#### Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting.
+Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting.
 
 ### 🗄   Database & Querying 
  SQL (MySQL).
 
 ### ⚡   Other Tools 
-### Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving |  →  automate workflows and enhance data processing efficiency.
+Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving |  →  automate workflows and enhance data processing efficiency.
 
 ---
 
