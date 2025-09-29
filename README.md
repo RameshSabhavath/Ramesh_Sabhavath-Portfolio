@@ -9,7 +9,7 @@ Ramesh Sabhavath-Portfolio
 • Dedicated to leveraging data-driven approaches to support smarter decision-making.
 
 ## 💼 About Me 
-I am a data-driven professional specializing in **Business Intelligence, Data Engineering & Analytics**, Skilled in transforming data into insights, building impactful dashboards, and optimizing workflows to support strategic decisions.
+I am a data-driven professional specializing in **Business Intelligence, Data Engineering & Analytics**, Skilled in transforming data into insights, building impactful dashboards, and optimizing workflows to support strategic decisions.  
 Currently exploring **Generative-AI** to drive innovation.
 
 **<a href="https://www.linkedin.com/in/ramesh-sabhavath-3a0039387" target="_blank">
