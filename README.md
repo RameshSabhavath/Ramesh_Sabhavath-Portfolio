@@ -8,7 +8,10 @@ Ramesh Sabhavath-Portfolio
 • Eager to learn, grow, and apply analytical expertise to real-world challenges  
 • Dedicated to leveraging data-driven approaches to support smarter decision-making.
 
-****[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-sabhavath-3a0039387)      [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/RameshSabhavath)****
+****[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-sabhavath-3a0039387)      <a href="https://github.com/RameshSabhavath">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" alt="GitHub Profile" width="200" height="60">
+</a>
+
 
 ## 📌 What I Do:
 • Extract, clean, and analyze data to uncover meaningful insights 
