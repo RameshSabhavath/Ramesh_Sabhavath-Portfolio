@@ -63,7 +63,7 @@ Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-So
 
 🔹 Pending--------
 
-### 📝 Thanks for stopping by! I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me! 🚀
+ 📝 **Thanks for stopping by! I’m always open to collaboration, networking, and new opportunities. Feel free to connect with me!**  🚀
 ## 📫 Connect With Me 
 ### 👨🏼‍💻 Let’s connect! Feel free to explore my work and reach out. 
 📧 Email :  [rameshsabhavath124@gmail.com ]( rameshsabhavath124@gmail.com)  
