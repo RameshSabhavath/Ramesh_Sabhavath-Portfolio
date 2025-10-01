@@ -5,8 +5,7 @@
 
 • Passionate aspiring Data Analyst skilled in transforming raw data into actionable insights.    
 • Practical experience with data analysis tools, techniques, and problem-solving  
-• Eager to learn, grow, and apply analytical expertise to real-world challenges  
-• Effective communicator with a focus on business impact  
+• Eager to learn, grow, and apply analytical expertise to real-world challenges & Effective communicator with a focus on business impact  
 • Strong problem-solving mindset , Dedicated to leveraging data-driven approaches to support smarter decision-making.
 
 ## 💼 About Me 
@@ -40,18 +39,16 @@ Currently exploring **Generative-AI** to drive innovation.
 
 # 🛠 Technical Skills  
 
-## 🧹  Data Cleaning & Transformation  
+#### 🧹  Data Cleaning & Transformation  : → **Excel | Power Query | Python (Pandas, NumPy)**
+#### 📊  Data Visualization & Reporting  : **→ Power BI | Tableau | Matplotlib | Seaborn**
+#### 📈  Analytics & Insights   :  **→ Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting.**
+#### 🗄  Database & Querying   :   →  **SQL → (MySQL Database)**
+#### ⚡  Other Tools  :  →  **Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving |**  →  automate workflows and enhance data processing efficiency.
 
-→ Excel | Power Query | Python (Pandas, NumPy)
-## 📊  Data Visualization & Reporting 
-→ Power BI | Tableau | Matplotlib | Seaborn
-## 📈  Analytics & Insights 
-→ Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting.
-## 🗄  Database & Querying 
-→  SQL → (MySQL Database).
-## ⚡  Other Tools 
-
-Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving |  →  automate workflows and enhance data processing efficiency.
+# 🎓💼 Training and Internships    
+→ Certified Data Analyst trained at TechMinds Academy through an industry-recognized **6-month Training and Internship program**.  
+→ Completed multiple real-world projects involving data cleaning, visualization, predictive modeling, and dashboard creation using **Python, SQL, Excel, Power BI, and Machine Learning**.  
+→ Achieved proficiency in building interactive dashboards, writing optimized queries, and delivering actionable insights that solved business case studies during **Internship program**.
 
 # 📜 Certifications
 
@@ -60,38 +57,46 @@ Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-So
 🎯 Udemy :→ **MySQL** Database and many more....
 
 # 🚀 Projects  
+<h3>
+  <a href="https://github.com/RameshSabhavath/Quantitative-Trade-Data-Analytics-with-Python">
+    ➩1️⃣ 🚀  End-to-End Quantitative Trade Analytics with Python
+  </a>
+</h3>
 
-1️⃣ ⚙️End-to-End Quantitative Trade Analytics with Python
-
-• Utilized Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy) for data cleaning, transformation, and feature engineering.   
+• Utilized Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy) for data cleaning, transformation, and feature engineering.  
 • Applied statistical analysis and visualization to uncover trading patterns, risk-return insights, and profitability trends.   
 • Focused on evaluating trades, symbols, and time-based performance to support quantitative decision-making.
-  
-   →                [Quantitative Trade Analysis](https://github.com/RameshSabhavath/Quantitative-Trade-Data-Analytics-with-Python)
 
-2️⃣ 🚀 Pizza Sales Analysis Project – MySQL
-• Built Pizza Sales Analysis in MySQL using advanced SQL (Joins, CTEs, Window Functions).  
-• Derived customer preferences, revealing top-selling products, peak sales hours, category-wise revenue share, and growth trends through optimized SQL analytics.  
+<h3>
+  <a href="https://github.com/RameshSabhavath/Pizza_Sales_Analysis_using_SQL">
+    ➩2️⃣ 🚀 Pizza Sales Analysis Project – MySQL
+  </a>
+</h3>
+
+• Built Pizza Sales Analysis in MySQL using advanced SQL (Joins, CTEs, Window Functions).   
+• Derived customer preferences, revealing top-selling products, peak sales hours, category-wise revenue share, and growth trends through optimized SQL analytics.   
 • Generated actionable insights to support pricing, marketing, and inventory strategies.
   
-  →        [Pizza Sales Analysis using SQL](https://github.com/RameshSabhavath/Pizza_Sales_Analysis_using_SQL)
-  
- 3️⃣ 🚀 Retail Sales analysis using Python & SQL
+<h3>
+  <a href="https://github.com/RameshSabhavath/RetailOrder_Sales_Analysis_using_Python-MySQL">
+    ➩3️⃣ 🚀 Retail Sales Analysis using Python & SQL
+  </a>
+</h3>
 
-• Developed an end-to-end data analytics pipeline, from dataset acquisition via Kaggle API to preprocessing with Pandas and integration with SQL.  
-• Applied data cleaning, transformation, and advanced SQL-based analysis to uncover sales, customer, and product-level insights.   
-• Developed an end-to-end ETL pipeline using Python (Pandas, NumPy) and SQL on Kaggle-sourced retail datasets.   
+• Developed an end-to-end data analytics pipeline, from dataset via Kaggle API to preprocessing with Pandas and integration with SQL.   
+• Applied data cleaning, transformation, and advanced SQL-based analysis to uncover sales, customer, and product-level insights     
+• Developed an end-to-end ETL pipeline using Python (Pandas, NumPy) and SQL on Kaggle-sourced retail datasets     
 • Showcased expertise in Python, SQL, and ETL workflows, highlighting strong problem-solving and analytical skills.
   
-  →             [RetailOrder Sales Analysis](https://github.com/RameshSabhavath/RetailOrder-Sales-Analysis-using-Python-MYSQL)  
+<h3>
+  <a href="https://github.com/RameshSabhavath/Insurance_Cost_Analysis">
+    ➩4️⃣ 🚀 Medical Insurance-Cost-Analysis
+  </a>
+</h3>
 
-4️⃣ 🚀 Medical Insurance-Cost-Analysis
-
-• Performed data cleaning, preprocessing, and exploratory analysis on medical insurance datasets using powerful Python Libraries.  
+• Performed data cleaning, preprocessing, and exploratory analysis on medical insurance datasets using powerful Python Libraries.   
 • Applied descriptive statistics and visualizations to uncover cost-driving factors.    
 • Built and evaluated Linear & Ridge Regression models with Scikit-learn, enhancing prediction accuracy and identifying key variables influencing insurance charges.
- 
-  →                [Medical Insurance Cost Analysis](https://github.com/RameshSabhavath/Insurance-Cost-Analysis)
   
 📝 **Thanks for stopping by! I’m always open to collaboration, networking, and new opportunities**
 
