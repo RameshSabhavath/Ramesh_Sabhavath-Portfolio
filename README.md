@@ -46,7 +46,7 @@ Currently exploring **Generative-AI** to drive innovation.
 #### ⚡  Other Tools  :  →  **Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving**  
 
 # 🎓💼 Training and Internships    
-→ Certified Data Analyst trained at TechMinds Academy through an industry-recognized   **6-month Training and Internship program**.  
+→ Certified Data Analyst, trained at TechMinds Academy through an industry-recognized   **6-month Training and Internship program**.  
 → Completed multiple real-world projects involving data cleaning, visualization, predictive modeling, and dashboard creation using **Python, SQL, Excel, Power BI, and Machine Learning**.  
 → Achieved proficiency in building interactive dashboards, writing optimized queries, and delivering actionable insights that solved business case studies during **Internship program**.
 
