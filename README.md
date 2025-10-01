@@ -85,7 +85,7 @@ Currently exploring **Generative-AI** to drive innovation.
 
 • Developed an end-to-end data analytics pipeline, from dataset via Kaggle API to preprocessing with Pandas and integration with SQL.   
 • Applied data cleaning, transformation, and advanced SQL-based analysis to uncover sales, customer, and product-level insights     
-• Developed an end-to-end ETL pipeline using Python (Pandas, NumPy) and SQL on Kaggle-sourced retail datasets     
+• Developed an end-to-end ETL pipeline using Python Libraries and SQL on Kaggle-sourced retail datasets     
 • Showcased expertise in Python, SQL, and ETL workflows, highlighting strong problem-solving and analytical skills.
   
 <h3>
