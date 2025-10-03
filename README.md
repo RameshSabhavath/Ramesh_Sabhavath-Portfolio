@@ -5,7 +5,7 @@
 
 • Passionate aspiring Data Analyst skilled in transforming raw data into actionable insights.    
 • Practical experience with data analysis tools, techniques, and problem-solving  
-• Eager to learn, grow, and apply analytical expertise to real-world challenges
+• Eager to learn, grow, and apply analytical expertise to real-world challenges.  
 • Strong problem-solving mindset , Dedicated to leveraging data-driven approaches to support smarter decision-making.
 
 ## 💼 About Me 
