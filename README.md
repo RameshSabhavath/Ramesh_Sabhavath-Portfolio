@@ -15,8 +15,8 @@ Currently exploring **Generative-AI** to drive innovation.
 **<a href="https://www.linkedin.com/in/ramesh-sabhavath-3a0039387" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
        alt="LINKEDIN"
-       height="38"
-       width="19%" />
+       height="40"
+       width="20%" />
 </a>**                     <a href="https://github.com/RameshSabhavath" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-100000?style=flat-square&logo=github&logoColor=white" 
        alt="GITHUB"
@@ -25,8 +25,8 @@ Currently exploring **Generative-AI** to drive innovation.
 </a>            <a href="mailto:rameshsabhavath124@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" 
        alt="GMAIL"
-       height="37"
-       width="18%" />
+       height="39"
+       width="19%" />
 </a>   
 
 
@@ -54,7 +54,7 @@ Currently exploring **Generative-AI** to drive innovation.
 
 🎯 Udemy :→ Data Analysis and Data Vizualization with **Microsoft Copilot**   
 🎯 IBM Cognitive Class :→ **Data Analysis with Python**  
-🎯 Udemy :→ **MySQL** Database and many more....
+🎯 Udemy :→ **MySQL Database** 
 
 # 🚀 Projects  
 <h3>
